@@ -19,7 +19,7 @@ Anyone can:
 1. **Fork** this repository  
 2. Create a new folder named after your project  
    > Example: `SimpleCalculator-C/`, `ScientificCalculator-Python/`, or `GraphingCalculator-JS/`
-3. Add your source files inside  
+3. Add your source files inside (Adding README.md will appreciated)  
 4. Make sure your calculator runs properly  
 5. Open a **Pull Request** describing your addition  
 
