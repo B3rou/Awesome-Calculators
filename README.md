@@ -50,9 +50,13 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
 | `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
-| `SimpleCalculator-Python` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)| 
+| `SimpleCalculator-Python` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
+| `SimpleCalculator-Java` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `TemperatureConverter-Java` | Java | [@Ayden939](https://github.com/Ayden939) |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee)  |
 | `DataStorageConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
 | `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) / [@B3rou](https://github.com/B3rou) |
+| `AreaCalculator-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `OhmsLawCalculator-Daku3011-Python` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
+| `OhmsLawCalculator-CrossGo14-Python` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
