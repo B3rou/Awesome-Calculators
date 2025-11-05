@@ -1,6 +1,6 @@
 # Temperature Converter
 
-A simple temperature converter implemented in both C and Python that allows users to convert temperatures between Celsius and Fahrenheit.
+A simple temperature converter implemented in C that allows users to convert temperatures between Celsius and Fahrenheit.
 
 ## Implementations
 
@@ -19,24 +19,9 @@ gcc main.c -o temperature_converter
 ./temperature_converter
 ```
 
-### Python Implementation
-The Python version (`main.py`) offers the same functionality with added error handling and modern programming features.
-
-#### Features
-- Written in Python 3
-- Enhanced error handling with try-except blocks
-- User-friendly input processing
-- Formatted string output
-- Case-insensitive input handling
-
-#### How to Run
-```bash
-python3 main.py
-```
-
 ## Usage
 
-Both versions support:
+This versions support:
 1. Converting from Celsius to Fahrenheit (°C → °F)
 2. Converting from Fahrenheit to Celsius (°F → °C)
 
@@ -50,5 +35,4 @@ Both versions support:
 
 ## Requirements
 - C Version: Any C compiler (gcc recommended)
-- Python Version: Python 3.x
 
