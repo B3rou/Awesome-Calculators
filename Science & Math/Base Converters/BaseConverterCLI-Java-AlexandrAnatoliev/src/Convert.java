@@ -25,8 +25,8 @@ public class Convert {
 
         if (args.length > 2) {
             number = args[0];
-            sourceBase = Bases.valueOf(args[1].toUpperCase());
-            targetBase = Bases.valueOf(args[2].toUpperCase());
+            sourceBase = Bases.valueOf(args[1].toUpperCase(java.util.Locale.ENGLISH));
+            targetBase = Bases.valueOf(args[2].toUpperCase(java.util.Locale.ENGLISH));
             
             int num = parseStringToInt(number, sourceBase);
             String convertNumber = parseIntToString(num, targetBase);

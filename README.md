@@ -70,6 +70,7 @@ Current Unique Contributor Amount is **35**!
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
 | `BaseConverter-Python-calebjubal`| Python | [@calebjubal](https://github.com/calebjubal) |
+| `BaseConverter-Java-AlexandrAnatoliev`| Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
 | | | |
 | | | |
 | | | |
