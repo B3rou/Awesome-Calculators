@@ -59,7 +59,7 @@ int main() {
     
     forward_elimination(matrix);
     
-    std::cout << "Matrix after forbard elimination:\n";
+    std::cout << "Matrix after forward elimination:\n";
     print_augmented_matrix(matrix);
     
     std::vector<double> result = back_substitution(matrix);
